@@ -8,7 +8,7 @@
     * Working/Tested
     */
 // Main
-public class Program4 {
+public class Test {
     public static void main(String args[]) {
         Random rng = new Random();
         rng.setSeed(0);
