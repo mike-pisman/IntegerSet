@@ -5,7 +5,6 @@
  * peaceman.michael@gmail.com
  * IntegerSet.java
  */
-import java.util.Random;
 
 public class IntegerSet
 {

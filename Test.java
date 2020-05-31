@@ -8,6 +8,9 @@
     * Working/Tested
     */
 // Main
+
+import java.util.Random;
+
 public class Test {
     public static void main(String args[]) {
         Random rng = new Random();
@@ -19,7 +22,7 @@ public class Test {
 
         System.out.println("CS20j Integer Sets");
         System.out.println("<Mikhail Pisman peaceman.michael@gmail.com>");
-        System.out.println("This programm implements a set that will store integer values in the range of 0 through 1000, inclusive.")
+        System.out.println("This programm implements a set that will store integer values in the range of 0 through 1000, inclusive.");
         is1.insertElement(2);    is1.insertElement(4);
         is1.insertElement(2);    is1.insertElement(3);
         is1.insertElement(5);    is1.insertElement(7);
